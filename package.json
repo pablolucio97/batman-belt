@@ -1,0 +1,23 @@
+{
+  "name": "batman-belt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablolucio97/batman-belt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablolucio97/batman-belt/issues"
+  },
+  "homepage": "https://github.com/pablolucio97/batman-belt#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
