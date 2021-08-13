@@ -16,6 +16,8 @@ const products = [
     },
 ]
 
+//return products by price
+
 function sortProductsByPrice(products: Product[]){
     return products.sort((a, b) => {
         if(a.price > b.price) return 1

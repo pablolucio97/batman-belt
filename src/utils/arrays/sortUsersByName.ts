@@ -15,6 +15,8 @@ const users = [
     },
 ]
 
+//return users by name
+
 function sortUsersByName(users: User[]){
     return users.sort((a,b) => {
         if(a.name.toLocaleLowerCase() < b.name.toLocaleLowerCase()) return 1
