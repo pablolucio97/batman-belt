@@ -1,11 +1,11 @@
 {
-  "name": "batman-belt",
-  "version": "1.0.0",
+  "name": "ts-batman-belt",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-server" : "ts-node src/server.ts --transpile-only"
+    "start-server": "ts-node src/server.ts --transpile-only"
   },
   "repository": {
     "type": "git",
