@@ -6,4 +6,3 @@ function calcSimpleProportion(n1: number, n2:number, n3: number){
 }
 
 
-console.log(calcSimpleProportion(1, 10, 100))
