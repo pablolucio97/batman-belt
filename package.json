@@ -1,25 +1,27 @@
 {
   "name": "ts-batman-belt",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "version": "1.1.0",
+  "description": "Useful functions for lead with arrays in TypeScript",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start-server": "ts-node src/server.ts --transpile-only"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pablolucio97/batman-belt.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "typescript",
+    "arrays",
+    "functions"
+  ],
+  "author": "Pablo Lúcio",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pablolucio97/batman-belt/issues"
   },
   "homepage": "https://github.com/pablolucio97/batman-belt#readme",
   "devDependencies": {
-    "ts-node": "^10.2.0",
     "typescript": "^4.3.5"
   }
 }
